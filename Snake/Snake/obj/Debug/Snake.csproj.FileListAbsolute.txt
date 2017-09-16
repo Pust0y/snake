@@ -1,0 +1,7 @@
+D:\1WEB-DEV\Project\Курс ООП\Snake\Snake\bin\Debug\Snake.exe.config
+D:\1WEB-DEV\Project\Курс ООП\Snake\Snake\bin\Debug\Snake.exe
+D:\1WEB-DEV\Project\Курс ООП\Snake\Snake\bin\Debug\Snake.pdb
+D:\1WEB-DEV\Project\Курс ООП\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+D:\1WEB-DEV\Project\Курс ООП\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+D:\1WEB-DEV\Project\Курс ООП\Snake\Snake\obj\Debug\Snake.exe
+D:\1WEB-DEV\Project\Курс ООП\Snake\Snake\obj\Debug\Snake.pdb
